@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "updated": "2026-11-08",
+  "note": "The 'More from Sycamore Hill' list. Apps show entries with live=true, minus themselves. Flip live when an app is approved.",
+  "apps": [
+    {
+      "package": "com.sycamorehillstudios.neonswarm",
+      "name": "Neon Swarm",
+      "tagline": "Slash glowing swarms with a trail of light",
+      "icon": "https://lh3.googleusercontent.com/-Aihwy30JTPqdP7Y3nZI5kZrtiKgt-l5lk5LQKpGO3octjcNKixDmZLApziO5jiv_A2n=s192",
+      "live": false
+    },
+    {
+      "package": "com.sycamorehillstudios.bouncekeep",
+      "name": "Bounce Keep",
+      "tagline": "Drop cannonballs and defend your castle",
+      "icon": "https://lh3.googleusercontent.com/aFYo4SmpMTkq_vj-OKWvFnCWdulRTQ4Pl5HZAb6wjKScEE4U_Wtc0sTTHE0rh-2dcyw=s192",
+      "live": false
+    },
+    {
+      "package": "com.sycamorehillstudios.idleblackhole2",
+      "name": "Idle Black Hole 2",
+      "tagline": "Devour planets, stars and whole galaxies",
+      "icon": "https://lh3.googleusercontent.com/i3nkKRL38nAjCcPioGNNDdqhkFSrxqXZZOVqAJItJhWpzp5bytn4-HL1iTz4AED9Z6g=s192",
+      "live": false
+    },
+    {
+      "package": "com.idleblackhole.idle_black_hole",
+      "name": "Idle Black Hole",
+      "tagline": "Grow a black hole from a speck to a giant",
+      "icon": "https://lh3.googleusercontent.com/kOftpAeCNqoG0w_uqCeJ4pAWMYDGyDVZcWgVLVYUBNeGCjhysBXWNqJfLHEYuyY8fN5K9yHKTCMbhNAkv2VQaw=s192",
+      "live": true
+    },
+    {
+      "package": "com.idleorbit",
+      "name": "Idle Orbit",
+      "tagline": "Put satellites into orbit and build a galaxy",
+      "icon": "https://lh3.googleusercontent.com/AnbV2PsBHu0rPRuUXjFhWQ1MF55yYjz81VaWIeCdGWH5EDsJDxXWVWujjEdz78tVomGhRReFjYg1MzoELLgzUYw=s192",
+      "live": true
+    },
+    {
+      "package": "com.sycamorehillstudios.mergeorbit",
+      "name": "Merge Orbit",
+      "tagline": "Merge planets into an idle galaxy",
+      "icon": "https://lh3.googleusercontent.com/ySyDz3bh9DyNUMmVQbEX30S_leQrWARSbcEm9S2WMAz52e2SGGUdzlyyg4ng0tF0xVo=s192",
+      "live": true
+    },
+    {
+      "package": "com.sycamorehillstudios.printforge",
+      "name": "Print Forge",
+      "tagline": "Run your own 3D printing empire",
+      "icon": "https://lh3.googleusercontent.com/Sf1vNIUAMJxU26JeKUEGnKKSikqZ9ib6TTvGYNhZS70kXSx4SWXXbsjo5OEqzwhzgZKkbAaPisa8GnUrPFK96A=s192",
+      "live": true
+    },
+    {
+      "package": "com.sycamorehillstudios.megachurch",
+      "name": "Megachurch Tycoon",
+      "tagline": "Grow a tiny chapel into a megachurch",
+      "icon": "https://lh3.googleusercontent.com/KDhhFeQplEJBVREBXPYRfWUFU3YRTD6dKAKeZLHgeqPiqhtDkwJANnpo4Ie3PgKW5hJNQTqTHP2KvITGoJkW=s192",
+      "live": true
+    },
+    {
+      "package": "com.deckofpain",
+      "name": "Deck of Pain",
+      "tagline": "A card-based bodyweight workout",
+      "icon": "https://lh3.googleusercontent.com/Nilt8k9UomZiC5MjFUbKdqvGZrDFDmsdakCJHiaJJKbId9B5ntNbBvbcTblZS_pTuaqDYcYE3bGTjtc_iqwFy2s=s192",
+      "live": true
+    }
+  ]
+}
