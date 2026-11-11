@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-08",
+  "updated": "2026-11-11",
   "note": "The 'More from Sycamore Hill' list. Apps show entries with live=true, minus themselves. Flip live when an app is approved.",
   "apps": [
     {
@@ -8,7 +8,7 @@
       "name": "Neon Swarm",
       "tagline": "Slash glowing swarms with a trail of light",
       "icon": "https://lh3.googleusercontent.com/-Aihwy30JTPqdP7Y3nZI5kZrtiKgt-l5lk5LQKpGO3octjcNKixDmZLApziO5jiv_A2n=s192",
-      "live": false
+      "live": true
     },
     {
       "package": "com.sycamorehillstudios.bouncekeep",
@@ -23,6 +23,13 @@
       "tagline": "Devour planets, stars and whole galaxies",
       "icon": "https://lh3.googleusercontent.com/i3nkKRL38nAjCcPioGNNDdqhkFSrxqXZZOVqAJItJhWpzp5bytn4-HL1iTz4AED9Z6g=s192",
       "live": false
+    },
+    {
+      "package": "com.capeblast.game",
+      "name": "Capeblast",
+      "tagline": "Auto-firing hero action across 24 worlds",
+      "icon": "https://play-lh.googleusercontent.com/QFDVdWbhTSPZ5Eu3pPWS6pGb7y7EfaA19J8QDY_czaCUfgTzOSahemdlo4A2IOyqh8uAE61C74rx180JUV25iQ=s192",
+      "live": true
     },
     {
       "package": "com.idleblackhole.idle_black_hole",
