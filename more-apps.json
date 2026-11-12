@@ -15,14 +15,14 @@
       "name": "Bounce Keep",
       "tagline": "Drop cannonballs and defend your castle",
       "icon": "https://lh3.googleusercontent.com/aFYo4SmpMTkq_vj-OKWvFnCWdulRTQ4Pl5HZAb6wjKScEE4U_Wtc0sTTHE0rh-2dcyw=s192",
-      "live": false
+      "live": true
     },
     {
       "package": "com.sycamorehillstudios.idleblackhole2",
       "name": "Idle Black Hole 2",
       "tagline": "Devour planets, stars and whole galaxies",
       "icon": "https://lh3.googleusercontent.com/i3nkKRL38nAjCcPioGNNDdqhkFSrxqXZZOVqAJItJhWpzp5bytn4-HL1iTz4AED9Z6g=s192",
-      "live": false
+      "live": true
     },
     {
       "package": "com.capeblast.game",
